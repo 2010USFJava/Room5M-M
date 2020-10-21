@@ -6,7 +6,7 @@ import com.revature.beanz.Tree;
 public class Driver {
 
 	public static void main(String[] args) {
-		System.out.println("main branch");
+		System.out.println("michelle branch");
 		Leaf charlie = new Leaf("orange", "maple",5);
 		System.out.println(charlie);
 		
